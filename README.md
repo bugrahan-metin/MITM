@@ -1,6 +1,6 @@
 # Man-in-the-Middle (MITM) Application
 
-This is a simple Man-in-the-Middle (MITM) application. It is easy to use, and by following the steps below, you can intercept traffic between a target system and its network.
+This is a simple Man-in-the-Middle (MITM) application. It is easy to use, and by following the steps below, You can enter the traffic between the target system and its network
 
 ## **Features**
 - Easily select a target device on the local network.
